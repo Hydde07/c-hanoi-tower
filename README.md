@@ -14,7 +14,7 @@ This project implements the classic Tower of Hanoi puzzle in C++. The objective 
 ## Prerequisites
 
 - C++ Compiler: To compile the source code, you will need a C++ compiler. The project was likely developed using GCC or MSVC.
-- Visual Studio Code (optional): The presence of a `.vscode` directory suggests that the project was developed using VS Code, which can be used for editing and debugging.
+- Visual Studio Code (optional): The project was developed using VS Code, which can be used for editing and debugging.
 - `conio2` Library: For enhanced terminal interface features, the `conio2` library is required.
 
 ## Using conio2 for Enhanced Terminal Interface
